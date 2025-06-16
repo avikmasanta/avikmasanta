@@ -1,75 +1,61 @@
 <h1 align="center">Hi 👋, I'm Avik</h1>
-<h3 align="center">A passionate Frontend Developer & Problem Solver from India 🇮🇳</h3>
+<h3 align="center">Frontend Developer • DSA Enthusiast • UI Lover 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Welcome Coding" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **BeatMaker** – A web app for music producers  
-- 🌱 I’m learning: **Rust** & **GoLang** to expand my backend & systems programming skills  
-- 💬 Ask me about: **React, JavaScript, HTML, CSS, DSA, OOPs**  
-- 👨‍💻 My portfolio: [portfolio-avik-ygyz.vercel.app](https://portfolio-avik-ygyz.vercel.app)  
-- 📫 Reach me at: **avikmasanta@gmail.com**
+- 🔭 Currently Building: **BeatMaker** – A beat crafting platform for music lovers  
+- 🌱 Learning: **Rust**, **GoLang**, and **System Design**  
+- 💬 Ask Me About: **React, JavaScript, CSS Magic, UI/UX, DSA, OOPs**  
+- 🌐 Portfolio: [portfolio-avik-ygyz.vercel.app](https://portfolio-avik-ygyz.vercel.app)  
+- 📫 Email Me: **avikmasanta@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/avikmasanta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-  <a href="https://fb.com/brovoabhi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
-  </a>
-  <a href="https://instagram.com/avikmasnta0604" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
-  </a>
-  <a href="https://www.hackerrank.com/avikmasnta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" />
-  </a>
-  <a href="https://leetcode.com/avikmasanta" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/avikmasanta" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30" />
-  </a>
-</p>
-
----
-
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,express,php,mysql,mongodb,postgres,java,python,cpp,c,git,github,linux,vscode,figma" />
-</p>
-
----
-
-### ⚙️ Workflow & Interests
-
-- 🧠 DSA Solver on LeetCode, HackerRank & GFG  
-- 🧩 Love clean code, design systems, and scalable UI  
-- 🔧 Building fullstack apps using **MERN, PHP**, and **Tailwind**  
-- 🧪 Learning **Rust**, **Golang**, and **Low-Level Optimization**
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" />
+  <a href="https://linkedin.com/in/avikmasanta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/brovoabhi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/avikmasnta0604">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/avikmasanta">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/avikmasnta">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/avikmasanta">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1f8a38?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avikmasanta&show_icons=true&theme=tokyonight" alt="Avik's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,postgres,java,python,cpp,git,github,linux,vscode,figma" />
 </p>
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avikmasanta&theme=tokyonight" alt="Avik's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avikmasanta&show_icons=true&theme=tokyonight&border_radius=10" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avikmasanta&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -82,16 +68,24 @@
 
 ---
 
-### ✨ Fun Dev Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+### ✨ Dev Energy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" title="Web Dev" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" title="Programming Logic" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" title="Debugging" />
 </p>
 
 ---
 
-<h3 align="center">🎯 Let’s Connect & Build Something Amazing!</h3>
+### 💡 Dev Quote
 
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
+---
+
+<h3 align="center">🎯 Let’s Collaborate & Build Something Amazing!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Team Collab" />
+</p>
